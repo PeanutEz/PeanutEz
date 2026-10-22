@@ -17,11 +17,3 @@ Backend developer who enjoys building APIs, working with databases, and making s
 - **Basic DevOps:** Containerizing applications with Docker and deploying to servers
 - **Version Control:** Managing code with Git (branching, merging, resolving conflicts)
 
-## 🌱 Currently Learning
-
-- FPT University
-
-## 📫 Contact
-
-- Email: your-email@example.com
-- LinkedIn: ...
