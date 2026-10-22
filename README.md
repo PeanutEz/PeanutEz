@@ -1,6 +1,6 @@
 # Hi, I'm Pham Gia Lac 👋
 
-Backend developer, thích làm việc với API, database và những thứ giúp hệ thống chạy nhanh và ổn định.
+Backend developer who enjoys building APIs, working with databases, and making systems fast and reliable.
 
 ## 🛠️ Tech Stack
 
@@ -10,9 +10,18 @@ Backend developer, thích làm việc với API, database và những thứ giú
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 💡 Mình làm được gì
+## 💡 What I Do
 
-- **Backend:** xây dựng API với NestJS và C#
-- **Database:** viết và tối ưu truy vấn SQL (index, execution plan, giảm thời gian query)
-- **DevOps cơ bản:** đóng gói ứng dụng bằng Docker, deploy lên server
-- **Quản lý mã nguồn:** làm việc với Git (branching, merge, resolve conflict)
+- **Backend:** Building RESTful APIs with NestJS and C#
+- **Database:** Writing and optimizing SQL queries (indexing, execution plans, reducing query time)
+- **Basic DevOps:** Containerizing applications with Docker and deploying to servers
+- **Version Control:** Managing code with Git (branching, merging, resolving conflicts)
+
+## 🌱 Currently Learning
+
+- FPT University
+
+## 📫 Contact
+
+- Email: your-email@example.com
+- LinkedIn: ...
