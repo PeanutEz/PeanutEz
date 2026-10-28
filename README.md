@@ -20,3 +20,9 @@ Backend developer who enjoys building APIs, working with databases, and making s
 - **Database:** Writing and optimizing SQL queries on PostgreSQL and Oracle (indexing, execution plans, reducing query time)
 - **Basic DevOps:** Containerizing applications with Docker and deploying to servers
 - **Version Control:** Managing code with Git (branching, merging, resolving conflicts)
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
