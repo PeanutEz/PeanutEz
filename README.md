@@ -1,4 +1,4 @@
-# Hi, I'm Gia Lạc (嘉乐) 👋
+# Hi, I'm Luke (嘉乐) 👋
 
 Backend developer who enjoys building APIs, working with databases, and making systems fast and reliable.
 
