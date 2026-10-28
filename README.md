@@ -23,6 +23,6 @@ Backend developer who enjoys building APIs, working with databases, and making s
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=PeanutEz&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeanutEz&layout=compact&theme=radical)
